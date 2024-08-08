@@ -1,0 +1,59 @@
+    1  touch linux_practice
+    2  cd ~linux_practice
+    3  cd ~ linux_practice
+    4  cd linux_practice
+    5  cd /linux_practice
+    6  cd /linux_practice/
+    7  mkdir linux_practice
+    8  cd ~linux_practice
+    9  cd.. linux_practice
+   10  clear
+   11  touch linux_practice
+   12  cd ~ linux_practice
+   13  cd ~linux_practice
+   14  cd /226739244-ALVAREZ/linux_practice/
+   15  cd 226739244-ALVAREZ/linux_practice/
+   16  cd linux_practice
+   17  cd linuz_practice
+   18  cd linux_practice
+   19  ls
+   20  cd linux_practice
+   21  termux -reload-settings
+   22  tmux -reload-settings
+   23  pkg install tmux
+   24  tmux -reload-settings
+   25  cd linux_practice
+   26  ls
+   27  list
+   28  termux reload-settings
+   29  tmux reload-settings
+   30  tmux -reload-settings
+   31  tmux -reload -settings
+   32  cd linux_practice
+   33  termux reload
+   34  tmux reload
+   35  tmux reload-settings
+   36  tmux -reload settings
+   37  cd linux_practice
+   38  cd ~linux_practice
+   39  ls
+   40  cd linux_practice
+   41  tmux --r
+   42  tmuz --reload-settings
+   43  tmux --reload-settings
+   44  termux-reload-settings
+   45  cd linux_practice
+   46  clear
+   47  exit
+   48  cd 226739244-ALVAREZ
+   49  du -sh ~
+   50  date
+   51  uptime
+   52  java -version
+   53  cd ../..
+   54  git checkout -b finalexam
+   55  cd
+   56  cd 226739244-ALVAREZ
+   57  git repo clone https://github.com/zy2611/226739243-ALVAREZ
+   58  git checkout -b finalexam
+   59  history > exam_log.txt
